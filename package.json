@@ -1,0 +1,24 @@
+{
+  "name": "randomnamegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/manya13gureja/randomNameGenerator#readme",
+  "bugs": {
+    "url": "https://github.com/manya13gureja/randomNameGenerator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manya13gureja/randomNameGenerator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ts": "^0.2.2",
+    "typescript": "^5.7.3"
+  }
+}
